@@ -1,0 +1,45 @@
+img {
+	height:250px;	
+}
+body {
+	background: #111;
+	text-align: center;
+	color: white;
+	
+}
+div.container {
+  text-align: center;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
+div.container {
+  text-align: center;
+}
+
+ol.myUL {
+  display: inline-block;
+  text-align: left;
+}
+div.container {
+  text-align: center;
+}
+
+ol.myUL {
+  display: inline-block;
+  text-align: left;
+}
+div.container {
+  text-align: center;
+}
+
+ol.myUL {
+  display: inline-block;
+  text-align: left;
+}
+
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaxwQ9NNutVDfw_tV3QBON3Lac-VVkNclsOw&usqp=CAU");
+
