@@ -49,3 +49,8 @@ body{
    margin: auto;
   width: 50%;
   padding: 7px;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
