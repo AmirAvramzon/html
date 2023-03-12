@@ -72,3 +72,12 @@ ul {
     height: 100%;
     max-width: 100%;
 }
+@media only screen and (max-width: 600px) {
+    /* הסתר את תפריט הניווט */
+    .menu {
+        display: none;
+    }
+    
+    /* הצג את כפתור התפריט */
+    .menu-toggle {
+        display:
